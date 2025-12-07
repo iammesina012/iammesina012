@@ -26,8 +26,8 @@
 ### 🛠️ Projects I'm Working On
 - 🏫 **STI Student Information Management System** *(my improved version)*
 - 📚 **Game Wiki Database** (GrandChase Mobile, Cookie Run Kingdom, etc.)  
-- 📝 **eLMS** *(my improved version of STI eLMS)*
-- 🎮 **Pixel Turn-Based Game** (my first real game dev project)
+- 📝 **Learning Management System** *(my improved version of STI eLMS)*
+- 🎮 **2D Pixel Turn-Based Game** 
 
 ---
 
@@ -35,16 +35,16 @@
 - 📱 **Dental Inventory Management System — FamiLee Dental**  
   *(Built in Dart — my first real mobile app!)*  
 - 👟 **Shoe Store — ShoeZam**  
-  *(My first group Java project, built using Eclipse)*
+  *(My first group Java project, built using Java together w/ Eclipse IDE)*
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="YOUR_FACEBOOK_LINK_HERE" target="_blank">
+  <a href="https://www.facebook.com/iammesina012" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/michael-william-mesina-a42200385/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
