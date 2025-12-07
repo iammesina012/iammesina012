@@ -72,11 +72,18 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammesina012&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
+## 🎮 Pixel GitHub Stats
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iammesina012&show_icons=true&locale=en" alt="stats" />
-</p>
+<div align="center">
+
+<!-- Pixel character -->
+<img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="90" />
+
+<!-- Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iammesina012&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=90EE90&title_color=9aff8c&text_color=caffb9" height="160"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iammesina012&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=9aff8c&text_color=caffb9" height="160"/>
+
+</div>
+
