@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael William Mesina</h1>
-<h3 align="center">IT Student at STI | Future Frontend Developer | Aspiring 2D Pixel Game Developer</h3>
+<h3 align="center">IT Student at STI | Aspiring Pixel Game Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iammesina012&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,10 +9,7 @@
 
 ### 👨‍🎓 About Me
 - 🎓 IT student at **STI College**
-- 🎨 Aiming to become a **Frontend Developer**  
 - 🎮 Passionate about **2D pixel game development**
-- 💡 Love building systems that *improve existing apps* or help communities
-- 🚀 Interested in UI/UX + clean website design
 
 ---
 
