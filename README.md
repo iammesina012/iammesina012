@@ -1,11 +1,10 @@
 <h1 align="center">Michael William Mesina</h1>
-<h3 align="center">Information Technology Student at STI College Ortigas-Cainta</h3>
+<h3 align="center">Information Technology Graduate at STI College Ortigas-Cainta</h3>
 
 ---
 
 ### Completed Projects
-- **Dental Inventory Management System — FamiLee Dental**  
-  **(Built in Dart and assisted for developing our first mobile app)**
+- **Android-Based Inventory Management System — FamiLee Dental Clinic**
   
 ---
 
