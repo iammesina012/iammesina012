@@ -3,7 +3,7 @@
 
 ---
 
-### Completed Projects
+## Completed Projects
 - **Android-Based Inventory Management System — FamiLee Dental Clinic**
   
 ---
