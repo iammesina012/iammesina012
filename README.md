@@ -4,7 +4,8 @@
 ---
 
 ## Completed Projects
-- **Android-Based Inventory Management System — FamiLee Dental Clinic**
+- **Android-Based Inventory Management System | Dart — FamiLee Dental Clinic**
+- **Footwear E-Commerce Application | Java — ShoeZam**
   
 ---
 
