@@ -23,20 +23,11 @@
 
 ## Languages & Tools
 <p align="left">
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev"
+  <a href="https://dart.dev">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://figma.com">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+ <a href="https://reactnative.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/react-native-original.svg" width="40" height="40"/>
   </a>
 </p>
 
