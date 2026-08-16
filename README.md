@@ -27,7 +27,7 @@
   <a href="https://dart.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://www.javascript.com/">
+ <!-- <a href="https://www.javascript.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/">
@@ -36,7 +36,7 @@
   <a href="https://www.java.com/en/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 ## Frameworks
 
@@ -44,13 +44,13 @@
   <a href="https://flutter.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/">
+<!--  <a href="https://reactnative.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   </a>
   <a href="https://expo.dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 ## Backend & Databases
 
