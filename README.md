@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.salesforce.com/trailblazer/michaelwilliammesina">
-    <img src="https://img.shields.io/badge/Salesforce%20Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Salesforce%20-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   </a>
 </p>
 
