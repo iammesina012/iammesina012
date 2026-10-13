@@ -4,8 +4,8 @@
 ---
 
 ## Completed Projects
-- **FamiLee Inventory** — Android-Based Inventory Management System | Dart
-- **ShoeZam** — Footwear E-Commerce Desktop Application | Java (currently remaking)
+- **FamiLee Inventory** — Android-Based Inventory Management System | Flutter
+- **ShoeZam** — Footwear E-Commerce Web Application | React, Tailwind CSS, Next.js
   
 ---
 
