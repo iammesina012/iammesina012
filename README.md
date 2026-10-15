@@ -5,7 +5,7 @@
 
 ## Completed Projects
 - **FamiLee Inventory** — Android-Based Inventory Management System | Flutter
-- **ShoeZam** — Footwear E-Commerce Web Application | React, Tailwind CSS, Next.js
+- **ShoeZam** — Footwear E-Commerce Web Application | React, React Native, Tailwind CSS, Next.js
   
 ---
 
